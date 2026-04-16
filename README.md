@@ -55,4 +55,4 @@ Get the project files on your local machine.
 ### 2) Create a virtual environment (recommended)
 
 ```bash
-python -m venv .venv![Uploading Ekran görüntüsü 2026-04-16 153244.png…]()
+python -m venv .venv!
